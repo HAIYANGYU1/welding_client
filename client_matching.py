@@ -214,6 +214,6 @@ if __name__ == "__main__":
     data_folder=os.path.join(ROOT,'data/obj_data')
     xml='Reisch.xml'
     model='pointnext'
-    dienst_number=72 ## 62 training_similarity;63 similarity; 61 pose estimation; 64 training_PE
+    dienst_number=74 ## 62 training_similarity;63 similarity; 61 pose estimation; 64 training_PE
     matching(data_folder, xml, model,dienst_number,save_image=False,auto_del=False)
 
