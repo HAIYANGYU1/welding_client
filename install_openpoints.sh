@@ -14,7 +14,8 @@
 # module load gcc/7.5.0
 
 # download openpoints
-git clone git@github.com:guochengqian/openpoints.git
+# git clone git@github.com:guochengqian/openpoints.git
+git clone https://github.com/LJJ1799/openpoints.git
 git submodule update --init
 # install PyTorch
 conda deactivate
