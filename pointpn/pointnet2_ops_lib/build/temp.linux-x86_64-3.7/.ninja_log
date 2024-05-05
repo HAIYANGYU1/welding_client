@@ -35,3 +35,12 @@
 2	31858	1714914718455108684	/home/meer/桌面/presentation/welding_client/pointpn/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/group_points_gpu.o	424025e427a56712
 2	31883	1714914718479108765	/home/meer/桌面/presentation/welding_client/pointpn/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/interpolate_gpu.o	253347e1b0274219
 2	32454	1714914719051110715	/home/meer/桌面/presentation/welding_client/pointpn/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/sampling_gpu.o	53146905e06589ff
+1	20778	1714922032779589325	/home/meer/桌面/present/welding_client/pointpn/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/ball_query.o	ec15c26f6659763e
+1	20827	1714922032827588622	/home/meer/桌面/present/welding_client/pointpn/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/interpolate.o	a00e798302e8c844
+0	20974	1714922032971586514	/home/meer/桌面/present/welding_client/pointpn/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/group_points.o	f5efd1c024101cf0
+1	21437	1714922033431579924	/home/meer/桌面/present/welding_client/pointpn/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/sampling.o	aae980595c966b3d
+1	26481	1714922038483511810	/home/meer/桌面/present/welding_client/pointpn/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/bindings.o	d54298447e0530c
+2	36333	1714922048347402462	/home/meer/桌面/present/welding_client/pointpn/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/ball_query_gpu.o	5248802901b40b91
+2	36430	1714922048443401548	/home/meer/桌面/present/welding_client/pointpn/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/interpolate_gpu.o	b99ccfeb3e379910
+2	36933	1714922048947396754	/home/meer/桌面/present/welding_client/pointpn/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/group_points_gpu.o	4ecf441c6f377b3e
+2	37408	1714922049423392351	/home/meer/桌面/present/welding_client/pointpn/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/sampling_gpu.o	f044d7762719b387
