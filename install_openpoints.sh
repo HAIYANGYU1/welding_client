@@ -19,9 +19,9 @@ git clone git@github.com:HAIYANGYU1/openpoints.git
 git submodule update --init
 # install PyTorch
 conda deactivate
-conda env remove --name openpoints
-conda create -n openpoints -y python=3.7 numpy=1.20 numba
-conda activate openpoints
+conda env remove --name openpointsWeld
+conda create -n openpointsWeld -y python=3.7 numpy=1.20 numba
+conda activate openpointsWeld
 
 # please always double check installation for pytorch and torch-scatter from the official documentation
 conda install cuda -c "nvidia/label/cuda-11.7.1" -y

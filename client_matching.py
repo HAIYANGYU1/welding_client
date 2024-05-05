@@ -77,11 +77,11 @@ def matching(data_folder,xml_file,model,dienst_number,save_image=False,auto_del=
             training(training_dir)
     
     elif dienst_number in [70,71,72,73,74]:
-            # exchange
-        if dienst_number==70:
-            source_file = 'welding_seam/dataset/shapenetpart.py'
-            target_file = 'openpoints/dataset/shapenetpart/shapenetpart.py'
-            replace_file(source_file, target_file)
+        # exchange
+        # if dienst_number==70:
+        #     source_file = 'welding_seam/dataset/shapenetpart.py'
+        #     target_file = 'openpoints/dataset/shapenetpart/shapenetpart.py'
+        #     replace_file(source_file, target_file)
 
         # pcd for training
         if dienst_number==71:
